@@ -6,7 +6,7 @@ const projects = [
     title: "SENSAI",
     description: "An AI-Powered Career Coach Currently Working Full Stack Project With Authentication And Gemini-AI.",
     image: "/projects/Screenshot 2025-07-12 134815.png",
-    tags: ["React", "TailwindCSS"],
+    tags: ["Next.Js","Postgress","Shadcn","React", "TailwindCSS"],
     demoUrl: "https://sens-ai-puce.vercel.app/",
     githubUrl: "https://github.com/DevangPatel2006/sensAI",
   },
