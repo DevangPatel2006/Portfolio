@@ -2,6 +2,15 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <script>
+  (function () {
+    const theme = localStorage.getItem('theme');
+    if (!theme || theme === 'dark') {
+      document.documentElement.classList.add('dark');
+    }
+  })();
+</script>
+
     <link rel="icon" type="image/png" href="/lanzar.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Devang's Portfolio</title>
