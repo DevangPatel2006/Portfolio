@@ -16,7 +16,7 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With a strong foundation in C++, JavaScript, and React, I
+              With a strong foundation in C++ JavaScript, and React, I
               specialize in building intelligent, dynamic web experiences
               powered by AI.
             </p>
