@@ -21,7 +21,7 @@ const projects = [
   },
   
   {
-    id: ,
+    id:2,
     title: "QuickAI -Powerful AI Tools",
     description:
       "Fully Responsive React SAAS- Web Aplication Wuth Authentication And Features  ",
