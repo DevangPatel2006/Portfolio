@@ -27,7 +27,7 @@ const projects = [
       "Fully Responsive React SAAS- Web Aplication Wuth Authentication And Features  ",
     image: "/projects/Screenshot 2025-07-21 163855.png",
     tags: ["React", "Node.js", "JavaScript","HTML","CSS"],
-    demoUrl: "https://vercel.com/devangpatel2006s-projects/quick-ai",
+    demoUrl: "https://quick-ai-wine.vercel.app/",
     githubUrl: "https://github.com/DevangPatel2006/QuickAI-Frontend",
   },
   {
