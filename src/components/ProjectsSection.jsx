@@ -19,8 +19,19 @@ const projects = [
     demoUrl: "https://lanzar-ai.vercel.app/",
     githubUrl: "https://github.com/DevangPatel2006/lanzar-ai",
   },
+  
   {
-    id: 2,
+    id: ,
+    title: "QuickAI -Powerful AI Tools",
+    description:
+      "Fully Responsive React SAAS- Web Aplication Wuth Authentication And Features  ",
+    image: "/projects/Screenshot 2025-07-21 163855.png",
+    tags: ["React", "Node.js", "JavaScript","HTML","CSS"],
+    demoUrl: "https://vercel.com/devangpatel2006s-projects/quick-ai",
+    githubUrl: "https://github.com/DevangPatel2006/QuickAI-Frontend",
+  },
+  {
+    id: 3,
     title: "Recipe's App ",
     description:
       "Interactive And Responsive Web App To Find Any Recipe.",
@@ -28,16 +39,6 @@ const projects = [
     tags: ["API", "React", "JavaScript"],
     demoUrl: "https://devangpatel2006.github.io/Recipe-WebApp/",
     githubUrl: "https://github.com/DevangPatel2006/Recipe-WebApp",
-  },
-  {
-    id: 3,
-    title: "Dice Game",
-    description:
-      "Full-featured Dice game With Logic.",
-    image: "/projects/dice.png",
-    tags: ["React", "Node.js", "JavaScript"],
-    demoUrl: "https://dicegame-neon-chi.vercel.app/",
-    githubUrl: "https://github.com/DevangPatel2006/dicegame",
   },
 ];
 
