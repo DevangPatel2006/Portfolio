@@ -24,11 +24,11 @@ const projects = [
     id:2,
     title: "QuickAI -Powerful AI Tools",
     description:
-      "Fully Responsive React SAAS- Web Aplication Wuth Authentication And Features  ",
+      "Fully Responsive React SAAS- Web Aplication Wuth Authentication And Features PERN stack Project ",
     image: "/projects/Screenshot 2025-07-21 163855.png",
-    tags: ["React", "Node.js", "JavaScript","HTML","CSS"],
-    demoUrl: "https://quick-ai-wine.vercel.app/",
-    githubUrl: "https://github.com/DevangPatel2006/QuickAI-Frontend",
+    tags: ["Express","Postgress","API","React", "Node.js", "JavaScript","HTML","CSS"],
+    demoUrl: "https://quick-ai-main.vercel.app/",
+    githubUrl: "https://github.com/DevangPatel2006/QuickAI",
   },
   {
     id: 3,
