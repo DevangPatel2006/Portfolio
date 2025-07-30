@@ -14,7 +14,7 @@ const projects = [
    {
     id: 1,
     title: "Hirrd",
-    description:description: `A user-friendly platform where recruiters can post jobs and candidates can easily apply. Built with a clean design and smooth functionality to streamline job listings and applications. Simple, responsive, and effective for real-world hiring needs.`,
+    description:`A user-friendly platform where recruiters can post jobs and candidates can easily apply. Built with a clean design and smooth functionality to streamline job listings and applications. Simple, responsive, and effective for real-world hiring needs.`,
 
     image: "/projects/hirrd.png",
        tags: ["Express","SupaBase","API","React", "Node.js", "JavaScript","HTML","CSS"],
