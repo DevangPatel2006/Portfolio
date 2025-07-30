@@ -1,27 +1,8 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
-  {
-    id: 0,
-    title: "SENSAI",
-    description: "An AI-Powered Career Coach Currently Working Full Stack Project With Authentication And Gemini-AI.",
-    image: "/projects/Screenshot 2025-07-12 134815.png",
-    tags: ["Next.Js","Postgress","Shadcn","React", "TailwindCSS"],
-    demoUrl: "https://sens-ai-puce.vercel.app/",
-    githubUrl: "https://github.com/DevangPatel2006/sensAI",
-  },
-  {
-    id: 1,
-    title: "LanzaR",
-    description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/lanzar.png",
-    tags: ["React", "TailwindCSS"],
-    demoUrl: "https://lanzar-ai.vercel.app/",
-    githubUrl: "https://github.com/DevangPatel2006/lanzar-ai",
-  },
-  
-  {
-    id:2,
+   {
+    id:0,
     title: "QuickAI -Powerful AI Tools",
     description:
       "Fully Responsive React SAAS- Web Application With Authentication And Features PERN stack Project ",
@@ -30,8 +11,38 @@ const projects = [
     demoUrl: "https://quick-ai-main.vercel.app/",
     githubUrl: "https://github.com/DevangPatel2006/QuickAI",
   },
+   {
+    id: 1,
+    title: "Hirrd",
+    description: "A user-friendly platform where recruiters can post jobs and candidates can easily apply. Built with a clean design and smooth functionality to streamline job listings and applications. Simple, responsive, and effective for real-world hiring needs.
+",
+    image: "/projects/hirrd.png",
+       tags: ["Express","SupaBase","API","React", "Node.js", "JavaScript","HTML","CSS"],
+    demoUrl: "https://hirrd-peach.vercel.app/",
+    githubUrl: "https://github.com/DevangPatel2006/Hirrd",
+  },
+  {
+    id: 2,
+    title: "SENSAI",
+    description: "An AI-Powered Career Coach Currently Working Full Stack Project With Authentication And Gemini-AI.",
+    image: "/projects/Screenshot 2025-07-12 134815.png",
+    tags: ["Next.Js","Postgress","Shadcn","React", "TailwindCSS"],
+    demoUrl: "https://sens-ai-puce.vercel.app/",
+    githubUrl: "https://github.com/DevangPatel2006/sensAI",
+  },
+ 
   {
     id: 3,
+    title: "LanzaR",
+    description: "A beautiful landing page app using React and Tailwind.",
+    image: "/projects/lanzar.png",
+    tags: ["React", "TailwindCSS"],
+    demoUrl: "https://lanzar-ai.vercel.app/",
+    githubUrl: "https://github.com/DevangPatel2006/lanzar-ai",
+  },
+ 
+  {
+    id: 4,
     title: "Recipe's App ",
     description:
       "Interactive And Responsive Web App To Find Any Recipe.",
