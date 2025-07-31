@@ -18,7 +18,7 @@ const projects = [
 
     image: "/projects/hirrd.png",
        tags: ["Express","SupaBase","API","React", "Node.js", "JavaScript","HTML","CSS"],
-    demoUrl: "https://hirrd-peach.vercel.app/",
+    demoUrl: "https://hirrd-pink.vercel.app/",
     githubUrl: "https://github.com/DevangPatel2006/Hirrd",
   },
   {
