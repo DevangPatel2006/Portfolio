@@ -183,7 +183,7 @@ export const SkillsInfo = [
       date: "June 2022 - June 2023",
       grade: "B1",
       desc: "I completed my class 12 education from Shree Ambe Vidhyalaya, Vadodara under the GSEB board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
-      degree: "CBSE(XII) - PCM ",
+      degree: "GSEB(XII) - PCM ",
     },
    
   ];
