@@ -31,13 +31,8 @@ const Experience = () => {
             }`}
           >
             {/* Timeline Circle */}
-            <div className=" absolute left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-gray-900 border-4 border-[#8245ec] w-14 h-14 sm:w-16 sm:h-16 rounded-full flex justify-center items-center z-20">
-              <img
-                src={experience.img}
-                alt={`${experience.company} logo`}
-                className="w-full h-full object-cover rounded-full"
-              />
-            </div>
+            <div className="absolute left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-[#8245ec] w-4 h-4 rounded-full z-20"></div>
+
 
             {/* Content Section */}
             <div
